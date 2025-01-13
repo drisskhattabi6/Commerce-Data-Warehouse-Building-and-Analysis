@@ -10,7 +10,7 @@ This project involves the creation of a **Data Warehouse (DW)** to support a dec
 
 This is the Schema Data WareHouse :
 
-![Schema Data WareHouse](Data-WareHouse-Schema.png)
+![Schema Data WareHouse](imgs/Data-WareHouse-Schema.png)
 
 ---
 
@@ -83,10 +83,13 @@ The transformed data is loaded into a **MySQL database** using **SQLAlchemy**.
 
 ## Reporting with Power BI
 
-The data loaded into the MySQL database is analyzed and visualized using **Power BI**. Key reports include:
-- Annual supplier invoice counts.
-- Product cost analysis by year and supplier.
-- Time-based trends in product purchases.
+The data loaded into the MySQL database is analyzed and visualized using **Power BI**.
+
+ScreenShots :
+
+![img 1](imgs/img1.png)
+
+![img 2](imgs/img2.png)
 
 ---
 
